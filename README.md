@@ -33,7 +33,7 @@ For maximum speed in the analysis this is the information you should pass to a s
 Let's look at each part of the data package you will transfer. 
 
 
-### The raw data
+### The raw data.
 
 It is critical that you include the rawest form of the data that you have access to. Here are some examples of the
 raw form of data:
